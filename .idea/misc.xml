@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/admin/Documents/AndroidLab/ch7_layout/src/main/res/layout/activity_main.xml" value="0.21693840579710144" />
+        <entry key="..\:/Users/admin/Documents/AndroidLab/ch7_layout/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/AndroidLab/ch7_layout/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/AndroidLab/test7/src/main/res/layout/activity_main206.xml" value="0.12864583333333332" />
         <entry key="..\:/Users/kkang/AndroidStudioProjects/TestProject/app/src/main/res/layout/activity_main.xml" value="0.18059777102330293" />
         <entry key="..\:/Users/kkang/AndroidStudioProjects/TestProject/ch10_notification/src/main/res/layout/activity_main.xml" value="0.38645833333333335" />
         <entry key="..\:/Users/kkang/AndroidStudioProjects/TestProject/ch17_database/src/main/res/layout/activity_setting.xml" value="0.1879432624113475" />
