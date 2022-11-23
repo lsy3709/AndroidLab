@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="5"
+    android:orientation="horizontal">
+
+    <Button android:text="A" />
+
+    <Button android:text="B" />
+
+    <Button android:text="C"
+        android:layout_row="1"
+        android:layout_column="0"
+         />
+
+    <Button android:text="D" />
+
+    <Button android:text="E" />
+
+</GridLayout>
+<!--<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:columnCount="3"-->
+<!--    android:orientation="horizontal">-->
+
+<!--    <Button android:text="A" />-->
+
+<!--    <Button android:text="HELLOWORLD HELLOWORLD" />-->
+
+<!--    <Button android:text="C" />-->
+
+<!--    <Button android:text="D" />-->
+
+<!--    <Button-->
+<!--        android:layout_gravity="fill_horizontal"-->
+<!--        android:text="E" />-->
+
+<!--    <Button android:text="F" />-->
+<!--</GridLayout>-->
+
+<!--<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:columnCount="3"-->
+<!--    android:orientation="horizontal">-->
+
+<!--    <Button android:text="A" />-->
+
+<!--    <Button android:text="HELLOWORLD HELLOWORLD" />-->
+
+<!--    <Button android:text="C" />-->
+
+<!--    <Button android:text="D" />-->
+
+<!--    <Button android:text="E" />-->
+
+<!--    <Button-->
+<!--        android:layout_row="1"-->
+<!--        android:layout_column="1"-->
+<!--        android:layout_gravity="right"-->
+<!--        android:text="F" />-->
+<!--</GridLayout>-->
+
+<!--<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:columnCount="3"-->
+<!--    android:orientation="horizontal">-->
+
+<!--    <Button-->
+<!--        android:layout_rowSpan="2"-->
+<!--        android:layout_columnSpan="2"-->
+<!--        android:layout_gravity="fill"-->
+<!--        android:text="A" />-->
+
+<!--    <Button android:text="B" />-->
+
+<!--    <Button android:text="C" />-->
+
+<!--    <Button android:text="D" />-->
+
+<!--    <Button android:text="E" />-->
+
+<!--    <Button android:text="F" />-->
+<!--</GridLayout>-->
