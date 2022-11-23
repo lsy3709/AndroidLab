@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Test3" />
+            <option value="$PROJECT_DIR$/Test4" />
+            <option value="$PROJECT_DIR$/Test5" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/ch10_notification" />
             <option value="$PROJECT_DIR$/ch11_jetpack" />
@@ -27,6 +30,21 @@
             <option value="$PROJECT_DIR$/ch7_layout" />
             <option value="$PROJECT_DIR$/ch8_event" />
             <option value="$PROJECT_DIR$/ch9_resource" />
+            <option value="$PROJECT_DIR$/test10" />
+            <option value="$PROJECT_DIR$/test11" />
+            <option value="$PROJECT_DIR$/test12" />
+            <option value="$PROJECT_DIR$/test13" />
+            <option value="$PROJECT_DIR$/test14" />
+            <option value="$PROJECT_DIR$/test15" />
+            <option value="$PROJECT_DIR$/test16" />
+            <option value="$PROJECT_DIR$/test17" />
+            <option value="$PROJECT_DIR$/test18" />
+            <option value="$PROJECT_DIR$/test19" />
+            <option value="$PROJECT_DIR$/test6" />
+            <option value="$PROJECT_DIR$/test7" />
+            <option value="$PROJECT_DIR$/test8" />
+            <option value="$PROJECT_DIR$/test9" />
+            <option value="$PROJECT_DIR$/test_outer" />
           </set>
         </option>
       </GradleProjectSettings>

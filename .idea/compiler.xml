@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="TestProject.app" target="11" />
+      <module name="TestProject.ch10_notification" target="11" />
+      <module name="TestProject.ch11_jetpack" target="11" />
+      <module name="TestProject.ch12_material" target="11" />
+      <module name="TestProject.ch13_activity" target="11" />
+      <module name="TestProject.ch14_receiver" target="11" />
+      <module name="TestProject.ch15_outer" target="11" />
+      <module name="TestProject.ch15_service" target="11" />
+      <module name="TestProject.ch16_provider" target="11" />
+      <module name="TestProject.ch17_database" target="11" />
+      <module name="TestProject.ch18_network" target="11" />
+      <module name="TestProject.ch19_map" target="11" />
+      <module name="TestProject.ch20_firebase" target="11" />
+      <module name="TestProject.ch6_view" target="11" />
+      <module name="TestProject.ch7_layout" target="11" />
+      <module name="TestProject.ch8_event" target="11" />
+      <module name="TestProject.ch9_resource" target="11" />
+      <module name="TestProject.test10" target="11" />
+      <module name="TestProject.test11" target="11" />
+      <module name="TestProject.test12" target="11" />
+      <module name="TestProject.test13" target="11" />
+      <module name="TestProject.test14" target="11" />
+      <module name="TestProject.test15" target="11" />
+      <module name="TestProject.test16" target="11" />
+      <module name="TestProject.test17" target="11" />
+      <module name="TestProject.test18" target="11" />
+      <module name="TestProject.test19" target="11" />
+      <module name="TestProject.test6" target="11" />
+      <module name="TestProject.test7" target="11" />
+      <module name="TestProject.test8" target="11" />
+      <module name="TestProject.test9" target="11" />
+      <module name="TestProject.test_outer" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
