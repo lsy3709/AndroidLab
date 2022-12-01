@@ -19,6 +19,7 @@
       <module name="TestProject.ch7_layout" target="11" />
       <module name="TestProject.ch8_event" target="11" />
       <module name="TestProject.ch9_resource" target="11" />
+      <module name="TestProject.myapplication" target="11" />
       <module name="TestProject.test10" target="11" />
       <module name="TestProject.test11" target="11" />
       <module name="TestProject.test12" target="11" />
