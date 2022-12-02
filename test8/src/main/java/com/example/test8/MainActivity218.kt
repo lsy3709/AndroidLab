@@ -14,7 +14,7 @@ class MainActivity218 : AppCompatActivity() {
         when (keyCode) {
             KeyEvent.KEYCODE_BACK -> Log.d("kkang", "BACK Button을 눌렀네요")
             KeyEvent.KEYCODE_VOLUME_UP -> Log.d("kkang", "Volume Up 키를 눌렀네요")
-            KeyEvent.KEYCODE_VOLUME_UP -> Log.d("kkang", "Volume Down 키를 눌렀네요")
+            KeyEvent.KEYCODE_VOLUME_DOWN -> Log.d("kkang", "Volume Down 키를 눌렀네요")
         }
         return super.onKeyDown(keyCode, event)
     }

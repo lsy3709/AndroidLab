@@ -8,7 +8,7 @@ import com.example.test8.databinding.ActivityMain221Binding
 
 class MyEventHandler : CompoundButton.OnCheckedChangeListener {
     override fun onCheckedChanged(p0: CompoundButton?, p1: Boolean) {
-        Log.d("kkang", "체크박스 클릭")
+        Log.d("lsy", "체크박스 클릭")
     }
 }
 
@@ -17,5 +17,9 @@ class MainActivity221 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         val binding = ActivityMain221Binding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        binding.checkbox.setOnCheckedChangeListener {
+                compoundButton, b -> Log.d("lsy", "체크박스 클릭22")
+        }
     }
 }
