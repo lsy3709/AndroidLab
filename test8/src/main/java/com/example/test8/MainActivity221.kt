@@ -1,9 +1,9 @@
 package com.example.test8
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.CompoundButton
+import androidx.appcompat.app.AppCompatActivity
 import com.example.test8.databinding.ActivityMain221Binding
 
 class MyEventHandler : CompoundButton.OnCheckedChangeListener {
@@ -20,6 +20,9 @@ class MainActivity221 : AppCompatActivity() {
 
         binding.checkbox.setOnCheckedChangeListener {
                 compoundButton, b -> Log.d("lsy", "체크박스 클릭22")
+        }
+        binding.button.setOnClickListener {
+                button -> Log.d("lsy","클릭미 버튼 클릭")
         }
     }
 }
